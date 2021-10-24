@@ -28,12 +28,18 @@ Develop an app to enable consumer customers to get view on weather conditions fo
 
 ![cities](/Practice/659_Cities.png)
 
+A full dataset is located [here](/Weather_Database/WeatherPy_Database.csv)
+
 **2. Generated and visualized on the map the cities that meet the user weather requirements**
 
 ![vacation search](/Vacation_Search/WeatherPy_vacation_map.png)
 
-**3. Build the travel itinerary for the selected cities and visualized on the map**
+**3. Built the travel itinerary for the selected cities and visualized on the map**
+
+*Travel Itinerary*
 
 ![vacation itinerary](/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+*Itinerary Information Markers*
 
 ![vacation markers](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
